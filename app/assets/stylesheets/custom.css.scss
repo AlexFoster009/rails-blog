@@ -1,5 +1,41 @@
-
+$navbar-default-bg: #080808;
 
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+#logo {
+  float: left;
+  font-size: 1.7em;
+
+  color: #fff;
+}
+
+.center {
+  text-align: center;
+
+}
+
+.jumbotron {
+
+
+  background-image: asset-url('alpha-bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 550px;
+
+}
+
+.jumbotron h1 { font-weight: bold; margin-top: 100px; margin-bottom: 20px; font-weight: bold;}
+
+.btn-xlg {width: 200px;}
+
+.footer {margin-top: 45px; padding-top: 5px;  border-top: 1px solid #666; background-color: black; height: 50px; }
+.footer p { margin-top: 10px; color: white; font-weight: bold; float: left; padding-left: 5px;}
+.footer ul{display: inline; list-style: none;  margin-top: 5px; padding-right: 10px;}
+
+.footer li { display: inline; padding-right: 5px; }
+.footer li a { color: #666; text-align:centers;}
+
+#social { float: right;}
+#bottom-nav { text-align: center;}

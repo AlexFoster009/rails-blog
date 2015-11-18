@@ -9,7 +9,6 @@
 #content {background-image: url('/assets/alpha-bg.jpg');
           margin-top: -25px;
           min-height:500px; }
-#content h1 { color:#faebd7; font-weight: bold; margin-top: 100px;}
 
 .sign-up { width: 200px; display: block; margin: 0 auto; margin-top: 35px;}
 .glyphicon { padding: 15px;}
