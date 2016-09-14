@@ -3,10 +3,10 @@
 #menu-items li a{ color: white; font-weight: bold;}
 
 #main-menu {background-color: #080808;}
-
+h1 h2 {color:white;}
 .navbar-brand {color: white;}
 
-#content {background-image: url('/assets/alpha-bg.jpg');
+#content {background-image: url('/assets/ruby.png');
           margin-top: -25px;
           min-height:500px; }
 
